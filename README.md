@@ -2,7 +2,7 @@
 
 🧑 Eu Sou Anthony Santana
 
-💻 Desenvolvedor
+💻 Desenvolvedor Web
 
 👨🏽‍🎓 Formando em ADS | Formando em Desenvolvimento Web pela Kenzie Academy
 
@@ -20,8 +20,6 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://wa.me/5571987898549)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Sfgczugy)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
-)](https://acmeco.slack.com/team/U053XUDGN93)
 
 ### Hardskills:
 <div>
